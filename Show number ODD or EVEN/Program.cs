@@ -8,7 +8,8 @@ namespace Show_number_ODD_or_EVEN
 
             int Number;
 
-            System.Console.WriteLine("          ======================SHOW NUMBER OOD OR EVEN======================");
+            System.Console.WriteLine
+                ("          ======================SHOW NUMBER OOD OR EVEN======================");
 
             System.Console.WriteLine();
 
@@ -38,11 +39,8 @@ namespace Show_number_ODD_or_EVEN
 
                 System.Console.WriteLine();
                 System.Console.WriteLine();
-            }  
+            }   
             
-            
-            
-
             System.Console.Write("Press [ENTER] To Exit...");
             System.Console.ReadLine();
 
